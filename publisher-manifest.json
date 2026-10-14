@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "694b5075bc45503cb97452b6",
+  "owner": "kayuvao",
+  "repo": "page-4afabba26c5f4db7d8e15903",
+  "title": "GPT代充",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4afabba26c5f4db7d8e15903",
+      "a": "GPT代充",
+      "b": "",
+      "entity": "GPT代充",
+      "brand": "GPT代充",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6ba71ef597e1556bdfed3bd74ffe2004923d1ef01708c55d6c8d35d604bea126",
+      "content": {
+        "keyword1": "GPT代充",
+        "keyword2": "",
+        "primary_entity": "GPT代充",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT代充提供机场订阅与网络加速服务，本页说明品牌用途、三档套餐、VPN 客户端下载入口，以及从导入订阅到选择线路的配置流程。",
+          "AI_DESCRIPTION": "GPT代充提供机场订阅与网络加速服务，本页说明品牌用途、三档套餐、VPN 客户端下载入口，以及从导入订阅到选择线路的配置流程。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n<style>\n* { box-sizing: border-box; }\nhtml, body { margin: 0; padding: 0; max-width: 100%; overflow-x: hidden; }\nbody { font-family: 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif; font-size: 17px; line-height: 1.75; color: #10283c; background: #f3fafb; }\na { color: #0b6e84; }\na:focus { outline: 2px solid #14c8e0; outline-offset: 2px; }\n.wrap { width: 100%; max-width: 1040px; margin: 0 auto; padding: 0 16px; }\nheader { background: #061525; color: #e7f6fb; }\nheader a { color: #d5f6fb; text-decoration: none; }\n.topbar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; padding: 14px 0; }\n.brand { margin: 0; font-weight: 700; font-size: 1.15rem; }\nnav { display: flex; flex-wrap: wrap; gap: 8px 14px; }\nnav a { font-size: 0.95rem; }\n.hero { background: linear-gradient(160deg, #061525 0%, #0c3a58 58%, #0e6f86 100%); color: #f3fcfe; padding: 36px 0 42px; }\n.hero h1 { margin: 0 0 12px; font-size: 1.85rem; line-height: 1.35; color: #ffffff; }\n.lead { margin: 0 0 16px; color: #e7f7fb; font-size: 1.05rem; }\n.hero-actions { display: flex; flex-wrap: wrap; gap: 10px; }\n.btn { display: inline-block; padding: 10px 16px; border-radius: 999px; background: #14c8e0; color: #04202a; font-weight: 700; text-decoration: none; }\n.btn.ghost { background: transparent; color: #e7faff; border: 1px solid #8adff0; }\nsection { padding: 36px 0; }\nh2 { margin: 0 0 14px; font-size: 1.45rem; line-height: 1.35; color: #0c2340; }\nh3 { margin: 0 0 8px; font-size: 1.12rem; line-height: 1.4; color: #0c3a58; }\np { margin: 0 0 12px; }\n.split { display: flex; flex-wrap: wrap; gap: 18px; align-items: stretch; }\n.split > * { flex: 1 1 280px; min-width: 0; }\n.card { background: #ffffff; border: 1px solid #c5e3ea; border-radius: 14px; padding: 16px; }\n.panel { background: #0c2340; color: #e7f6fb; border-radius: 14px; padding: 16px; }\n.panel h3, .panel p, .panel li { color: #e7f6fb; }\n.band { background: #061525; color: #e7f6fb; }\n.band h2, .band h3, .band p, .band li { color: #e7f6fb; }\n.band a { color: #9aebf6; }\n.kicker { display: inline-block; margin: 0 0 8px; padding: 2px 8px; border-radius: 999px; background: #14c8e0; color: #04202a; font-size: 0.85rem; font-weight: 700; }\n.plans, .platforms { display: flex; flex-wrap: wrap; gap: 14px; }\n.plan, .plat { flex: 1 1 230px; min-width: 0; background: #ffffff; color: #10283c; border: 1px solid #c5e3ea; border-radius: 14px; padding: 16px; }\n.plan.featured { border: 2px solid #0aa3bf; background: #f0fcfe; }\n.price { margin: 8px 0; font-size: 1.6rem; font-weight: 800; color: #0a4e60; }\n.annual { margin: 0 0 10px; color: #0b5c6e; font-weight: 700; }\n.feat { margin: 0; padding-left: 1.15em; }\n.feat li { margin: 0 0 6px; }\n.setup-band { background: #071e33; color: #e7f6fb; border: 1px solid #1b6f86; border-radius: 16px; padding: 18px; }\n.setup-band h2, .setup-band h3, .setup-band p, .setup-band li { color: #e7f6fb; }\n.steps { margin: 0; padding: 0; list-style: none; counter-reset: step; }\n.steps li { counter-increment: step; position: relative; margin: 0 0 10px; padding: 12px 12px 12px 52px; background: #0c314c; border-radius: 12px; }\n.steps li::before { content: counter(step); position: absolute; left: 10px; top: 14px; width: 30px; height: 30px; line-height: 30px; text-align: center; border-radius: 50%; background: #14c8e0; color: #04202a; font-weight: 800; }\n.plat { border-top: 4px solid #14c8e0; }\n.plat h3 { color: #0c2340; }\ndetails { background: #ffffff; border: 1px solid #b7dbe3; border-radius: 12px; padding: 12px 14px; margin: 0 0 10px; }\nsummary { font-weight: 700; cursor: pointer; color: #0c2340; }\ndetails p { margin: 8px 0 0; color: #10283c; }\nfooter { background: #061525; color: #d5eaf1; padding: 22px 0; }\nfooter a { color: #b7f3fb; }\n.note { color: #2c5160; }\n.band .note, footer .note, .setup-band .note { color: #c5e4ee; }\n@media (max-width: 720px) {\n.hero h1 { font-size: 1.5rem; }\nsection { padding: 28px 0; }\n.topbar { align-items: flex-start; }\n}\n@media (min-width: 760px) {\n.reverse { flex-direction: row-reverse; }\n}\n</style>\n\n\n<header>\n<div class=\"wrap topbar\">\n<p class=\"brand\">GPT代充</p>\n<nav aria-label=\"页内导航\">\n<a href=\"#intro\">品牌简介</a>\n<a href=\"#scenes\">使用场景</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#setup\">配置流程</a>\n<a href=\"#download\">客户端下载</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</div>\n</header>\n<main>\n<section class=\"hero\">\n<div class=\"wrap\">\n<p class=\"kicker\">官网下载引导 · 配置流程优先</p>\n<h1>GPT代充官网：机场订阅、VPN 客户端下载与网络加速</h1>\n<p class=\"lead\">GPT代充把机场订阅、流量补充和客户端导入说明放在同一页。你可以用它作为网络加速器：购买套餐、获取订阅、在自己的设备上连接线路，减少临时寻找公共梯子时的不确定。</p>\n<div class=\"hero-actions\">\n<a class=\"btn\" href=\"#setup\">先看配置流程</a>\n<a class=\"btn ghost\" href=\"#plans\">对比三档套餐</a>\n</div>\n</div>\n</section>\n<section id=\"intro\">\n<div class=\"wrap split\">\n<div>\n<h2>品牌简介</h2>\n<p>GPT代充是面向跨境访问的机场订阅服务。品牌名中的「代充」，在这里指套餐续费和流量补充可以沿用同一条订阅完成，而不是每次重新搜集节点。GPT 对应的是很多用户的实际用途：打开海外大模型、开发文档和协作网站时，希望网络加速更稳定。</p>\n<p>服务形态就是常见的 VPN 机场。付款后在账户中心取得订阅链接，导入支持订阅的客户端，再按套餐使用普通线路、基础或全节点流媒体线路，以及旗舰版提供的 IPLC 游戏优化。本页是产品说明和官网下载引导，不托管安装包，也不展示虚假用户评价。</p>\n</div>\n<div class=\"panel\">\n<h3>开始前先确认三件事</h3>\n<p>第一，同时在线的设备数是否落在 3 台、5 台或 20 台以内。第二，每月流量按 100GB、300GB 还是 1000GB 估算。第三，是否需要全节点原生流媒体解锁或 IPLC 专线游戏加速。确认后再进入配置流程，可以少一次换套餐。</p>\n<p>节点的具体名称以客户端更新订阅后的列表为准。页面只说明线路类型，避免把未开通的地区写成已经可用。</p>\n</div>\n</div>\n</section>\n<section id=\"scenes\" class=\"band\">\n<div class=\"wrap split reverse\">\n<div>\n<h2>使用场景</h2>\n<p>GPT代充不是单一用途的加速器。下面几类场景可以对应到不同套餐，选择时以流量、设备数和线路类型为准。</p>\n<h3>办公、课程与资料</h3>\n<p>远程仓库、邮件、网盘和公开课程如果在境外，普通线路通常足够。基础版的 100GB 与 3 台设备，适合手机加一台电脑的轻度使用。</p>\n<h3>海外 AI 与 GPT 类网站</h3>\n<p>访问 GPT 等海外人工智能网页、文档和控制台时，稳定比极限速度更重要。建议固定一个客户端，导入 GPT代充订阅后选择延迟较低的普通或高带宽节点，不要同时开启多个代理软件。</p>\n<h3>流媒体与游戏</h3>\n<p>基础版覆盖基础流媒体。需要全节点原生流媒体解锁，或玩对延迟敏感的游戏，应看旗舰版中的流媒体节点和 IPLC 专线游戏加速。团队共用再考虑团队版的设备额度和 VIP 高带宽节点。</p>\n</div>\n<div class=\"card\">\n<h3>场景与套餐的对应关系</h3>\n<ul class=\"feat\">\n<li>一个人浏览网页、偶尔看基础流媒体：基础版。</li>\n<li>主力设备经常看流媒体或玩游戏：旗舰版。</li>\n<li>家庭或小团队多人同时在线，并需要定制路由说明：团队版。</li>\n<li>只是短期试用公共梯子、无法确认流量归属的情况：不建议替代已购买的订阅。</li>\n</ul>\n<p class=\"note\">线路能否打开某个具体网站，还受内容平台地区策略和你本地网络影响。套餐写明的解锁范围，就是选择时的上限。</p>\n</div>\n</div>\n</section>\n<section id=\"plans\">\n<div class=\"wrap\">\n<h2>套餐与机场订阅</h2>\n<p>三档都按月计价，也可以按页面标注的年付价格续费。年付不是另算折扣后的模糊价格，而是基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。</p>\n<div class=\"plans\">\n<article class=\"plan\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p class=\"annual\">按年付仅需 ¥150/年</p>\n<ul class=\"feat\">\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</article>\n<article class=\"plan featured\">\n<p class=\"kicker\">推荐</p>\n<h3>旗舰版</h3>\n<p class=\"price\">¥35/月</p>\n<p class=\"annual\">按年付仅需 ¥350/年</p>\n<ul class=\"feat\">\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</article>\n<article class=\"plan\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p class=\"annual\">按年付仅需 ¥850/年</p>\n<ul class=\"feat\">\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</article>\n</div>\n<p class=\"note\">企业定制路由指团队可以按账户中心开通说明整理出口策略，不是在本页直接下发设备配置。流量用尽或设备超限时，应先在账户里核对，再决定是否升级。</p>\n</div>\n</section>\n<section id=\"setup\">\n<div class=\"wrap\">\n<div class=\"setup-band\">\n<p class=\"kicker\">重点：配置流程</p>\n<h2>操作说明：从订阅到连上线路</h2>\n<div class=\"split\">\n<div>\n<ol class=\"steps\">\n<li>按设备数和流量选定基础版、旗舰版或团队版，并确认年付或月付。未付款前不必安装多个客户端。</li>\n<li>在账户中心复制订阅链接。链接只保存在自己的 VPN 客户端中，不要发到公开群或截图外传。</li>\n<li>按系统阅读下方客户端下载说明，安装可导入订阅的正式版本。拒绝来源不明的改包。</li>\n<li>在客户端选择从 URL 导入，粘贴订阅并更新。成功后应看到与套餐对应的节点分组。</li>\n<li>日常浏览用普通线路；基础或全节点流媒体按套餐切换；游戏优先使用旗舰版及以上的 IPLC 优化线路。</li>\n<li>用浏览器打开一个你本来就要访问的网页做连通测试。超时时先换同类型节点，再检查时间、到期日和设备数。</li>\n</ol>\n</div>\n<div>\n<h3>导入时容易忽略的细节</h3>\n<p>同一台电脑不要同时运行两套加速器，系统代理端口冲突时，表现为订阅已更新但网页仍打不开。手机则注意系统 VPN 开关是否被另一个应用占用。</p>\n<p>更新失败时，先手动更新一次，再换一个本地网络重试。只有个别节点超时，通常是线路问题，不必重装系统。</p>\n<p>请在当地法律和所用网站服务条款允许的范围内使用。订阅流量不要转售，也不要把账户交给不认识的人代操作。</p>\n<p><a href=\"#download\">配置前可先查看客户端下载说明</a></p>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section id=\"download\" class=\"band\">\n<div class=\"wrap split reverse\">\n<div>\n<h2>客户端下载</h2>\n<p>GPT代充官网不在静态页里直接放置安装包。请使用本页引导进入账户中心，按系统获取与订阅导入方式匹配的客户端。这样可以避免从论坛下载被改过的程序，也能保证后续更新订阅的入口一致。</p>\n<p>Windows、macOS 和 Android 一般可直接安装支持订阅链接的客户端。iOS 需要使用可导入订阅的客户端，并按账户中心给出的获取方式操作，不要侧载来历不明的描述文件。</p>\n<p>装好后回到配置流程第 4 步。若客户端询问协议或规则，保留默认的订阅规则即可，不必手写节点参数。</p>\n</div>\n<div class=\"platforms\">\n<article class=\"plat\" id=\"win\">\n<h3>Windows</h3>\n<p>选择支持从 URL 导入的桌面客户端。安装后允许其添加系统代理，再粘贴 GPT代充订阅并更新。</p>\n<p><a href=\"#setup\">按配置流程导入</a></p>\n</article>\n<article class=\"plat\" id=\"mac\">\n<h3>macOS</h3>\n<p>从账户中心获取正式版本。若系统提示网络扩展权限，按客户端说明允许后再更新节点。</p>\n<p><a href=\"#setup\">查看导入步骤</a></p>\n</article>\n<article class=\"plat\" id=\"android\">\n<h3>Android</h3>\n<p>安装后授予 VPN 连接权限。与电脑同时在线时，记得计入套餐的设备上限。</p>\n<p><a href=\"#plans\">核对设备额度</a></p>\n</article>\n<article class=\"plat\" id=\"ios\">\n<h3>iOS</h3>\n<p>按账户中心的官网下载引导获取可导入订阅的客户端。导入后先选普通线路测试，再按需要切换流媒体或游戏线路。</p>\n<p><a href=\"#faq\">导入失败先看问答</a></p>\n</article>\n</div>\n</div>\n</section>\n<section id=\"faq\">\n<div class=\"wrap\">\n<h2>常见问题</h2>\n<details>\n<summary>GPT代充和临时公共梯子有什么不同？</summary>\n<p>GPT代充是有套餐额度的机场订阅。你能看到月流量、同时在线设备和线路类型，续费后继续使用原来的订阅链接。临时公共梯子往往不知道流量归谁、何时失效，也不适合作为长期访问 GPT 类网站或办公站点的网络加速方式。</p>\n</details>\n<details>\n<summary>订阅链接应该填到哪里？</summary>\n<p>在账户中心复制订阅链接，打开已经安装的 VPN 或代理客户端，使用从 URL 导入或添加订阅。更新成功后，基础版应出现普通线路节点池；旗舰版和团队版还会按套餐显示流媒体、IPLC 或高带宽相关分组。链接不要公开张贴。</p>\n</details>\n<details>\n<summary>客户端下载后无法更新订阅怎么办？</summary>\n<p>先确认安装的是账户中心引导的正式版本，而不是第三方改包。然后检查订阅是否过期、本机时间是否正确、在线设备是否超过 3 台、5 台或 20 台。手动更新一次，或更换本地网络后再试。若客户端已提示更新成功但网页不通，关闭其他加速器后再测。</p>\n</details>\n<details>\n<summary>基础版、旗舰版和团队版怎么选？</summary>\n<p>基础版 ¥15/月，每月 100GB，3 台设备，含基础流媒体和普通线路。旗舰版 ¥35/月，每月 300GB，5 台设备，含全节点原生流媒体解锁、IPLC 专线游戏加速和 7x24 优先工单。团队版 ¥85/月，每月 1000GB，20 台设备，含 VIP 高带宽节点、企业定制路由和专属客户经理。年付分别为 ¥150/年、¥350/年和 ¥850/年。</p>\n</details>\n<details>\n<summary>流媒体或游戏连不上时先查什么？</summary>\n<p>先看当前套餐是否包含该能力。基础版只承诺基础流媒体，全节点原生解锁和 IPLC 游戏优化在旗舰版及以上。确认套餐后，视频切换到流媒体节点，游戏切换到 IPLC 优化线路，并保证只有一个代理软件在运行。同一区域换一条节点，通常比反复重装客户端更有效。</p>\n</details>\n<details>\n<summary>这页的官网下载是否就是安装包地址？</summary>\n<p>不是。本页提供 GPT代充的官方说明和下载引导，安装包与订阅链接以登录后的账户中心为准。页内链接只跳到配置流程、套餐和对应系统说明，避免把失效的外部地址写成可下载文件。拿到客户端后，按配置流程导入订阅即可开始使用。</p>\n</details>\n</div>\n</section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<footer>\n<div class=\"wrap\">\n<p>GPT代充官网：机场订阅、VPN 客户端下载与网络加速说明。</p>\n<p class=\"note\">套餐内容以本页所列流量、设备数和线路类型为准。节点列表在订阅更新后显示。请遵守当地法律及相关网站条款，勿转售流量或公开订阅链接。</p>\n<p><a href=\"#intro\">品牌简介</a> · <a href=\"#setup\">配置流程</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">常见问题</a></p>\n</div>\n</footer>\n\n",
+          "hash": "abed324f4ddec1698a7a9c54b68554d61c76d9caf5774488179b94713bbed766",
+          "seo": {
+            "title": "GPT代充官网：机场订阅、VPN 客户端下载与网络加速",
+            "keywords": "GPT代充,GPT代充机场,GPT代充VPN,机场订阅,VPN,网络加速,梯子,加速器,客户端下载,官网下载",
+            "description": "GPT代充提供机场订阅与网络加速服务，本页说明品牌用途、三档套餐、VPN 客户端下载入口，以及从导入订阅到选择线路的配置流程。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "8s6400.cn",
+    "host": "p-c3fbbeffb4.8s6400.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "ec8a7eae282cb1ee2ff400bbded01ec71820abef521d8f02bd244117e02322d3",
+    "sitemap.xml": "e6891e6589f0fdd6a8645223aadb41abfda3d28fbc7095a1e9c75ca6d8a15730",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "233d557f509e52019eda5792df9beedf7a7008817c2a15688ceb02de1baa6694",
+    "robots.txt": "1f80d28240e7e2c305faa22f7e25bd584f774bd15dc17d586167ab904f19148c",
+    "2201193120f7d973297293ca226486a5.txt": "d934060d64db983cf4100d6043d555fd1ec61c1421d88838790957dbebe220f6"
+  },
+  "revision": "10fae89162a7ea3f1fd4e1d5e7f3808467a12b14c827053d4e160c71558ae830"
+}
